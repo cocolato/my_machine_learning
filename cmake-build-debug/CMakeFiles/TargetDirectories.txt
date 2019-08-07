@@ -1,0 +1,6 @@
+C:/Users/a0486470/CLionProjects/Tmp/cmake-build-debug/CMakeFiles/Tmp.dir
+C:/Users/a0486470/CLionProjects/Tmp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/a0486470/CLionProjects/Tmp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/a0486470/CLionProjects/Tmp/cmake-build-debug/src/CMakeFiles/MathFunctions.dir
+C:/Users/a0486470/CLionProjects/Tmp/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/a0486470/CLionProjects/Tmp/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

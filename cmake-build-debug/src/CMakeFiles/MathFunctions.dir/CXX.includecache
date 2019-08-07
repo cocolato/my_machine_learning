@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/a0486470/CLionProjects/Tmp/src/kpga.cpp
+kpga.h
+C:/Users/a0486470/CLionProjects/Tmp/src/kpga.h
+
+C:/Users/a0486470/CLionProjects/Tmp/src/kpga.h
+iostream
+-
+vector
+-
+rand.h
+C:/Users/a0486470/CLionProjects/Tmp/src/rand.h
+
+C:/Users/a0486470/CLionProjects/Tmp/src/rand.h
+random
+-
+memory
+-
+

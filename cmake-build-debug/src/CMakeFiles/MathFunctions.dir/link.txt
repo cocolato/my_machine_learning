@@ -1,0 +1,2 @@
+D:\MinGW\bin\ar.exe qc libMathFunctions.a  CMakeFiles/MathFunctions.dir/ants.cpp.obj CMakeFiles/MathFunctions.dir/classify.cpp.obj CMakeFiles/MathFunctions.dir/kpga.cpp.obj CMakeFiles/MathFunctions.dir/qlearning.cpp.obj CMakeFiles/MathFunctions.dir/rand.cpp.obj
+D:\MinGW\bin\ranlib.exe libMathFunctions.a
